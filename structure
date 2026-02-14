@@ -1,0 +1,16 @@
+customer-churn-prediction/
+│
+├── data/
+│   └── (empty or sample_data.csv)
+│
+├── notebooks/
+│   └── Customer_Churn_Model.ipynb
+│
+├── src/
+│   ├── preprocess.py
+│   ├── train.py
+│   └── evaluate.py
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
